@@ -8,4 +8,4 @@ Studying how wild predators learn to forage and optimize hunting strategy is an 
 This model is based on simple Q-learning with 1 state and 2 actions, as specified in the paper. 
 
 The notebook `Analysis.ipynb` includes implementation, reproduction of results, and additional experimentation.
-You can also view the notebook ![here](https://nbviewer.jupyter.org/github/slowjazz/OptimalForagingRL/blob/master/Analysis.ipynb) if GitHub doesn't render. 
+You can also view the notebook [here](https://nbviewer.jupyter.org/github/slowjazz/OptimalForagingRL/blob/master/Analysis.ipynb) if GitHub doesn't render. 
